@@ -1,0 +1,20 @@
+{
+    "pyhton": "python",
+    "python": "python",
+    "javascrpit": "javascript",
+    "javascript": "javascript",
+    "vue.js": "vue",
+    "vue": "vue",
+    "machine learning": "machine_learning",
+    "machine_learning": "machine_learning",
+    "deep-learning": "deep_learning",
+    "deep learning": "deep_learning",
+    "deep_learning": "deep_learning",
+    "matplotlib": "data_visualization",
+    "data_visualization": "data_visualization",
+    "sql": "sql",
+    "pandas": "pandas",
+    "numpy": "numpy",
+    "tensorflow": "tensorflow",
+    "pytorch": "pytorch"
+}
